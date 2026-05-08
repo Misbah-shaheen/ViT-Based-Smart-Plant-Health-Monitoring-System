@@ -229,12 +229,13 @@ Open the notebook file and execute all cells.
 
 ---
 
-## Authors
+## Contributors
 
-- Hareem Fatima
-- Misbah Shaheen
-- Attiqa Bano
-
+- **Misbah Shaheen** 
+- **Hareem Fatima**
+  GitHub: [HareemFatima5](https://github.com/HareemFatima5)
+- Attiqa Bano: [AttiqaBano](https://github.com/AttiqaBano)
+---
 
 ## License
 
